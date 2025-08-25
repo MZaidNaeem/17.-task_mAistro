@@ -1,0 +1,10 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "task_mAistro": "./task_mAistro.py:graph"
+  },
+  "env": "./.env",
+  "dependencies": [
+    "."
+  ]
+}
